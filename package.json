@@ -1,0 +1,11 @@
+{
+  "name": "expross",
+  "version": "1.0.0",
+  "description": "rewrite express ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhang jinshan",
+  "license": "ISC"
+}
